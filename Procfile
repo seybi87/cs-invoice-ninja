@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 ninja/dummy/
+web: vendor/bin/heroku-php-apache2 ninja/public/
